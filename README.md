@@ -1,2 +1,5 @@
-# Mon-projet-de-parcours-
-C'est un projet de fin de formation 
+# Portfolio Christian
+
+Portfolio personnel réalisé avec HTML, CSS, JS.
+
+Hébergé sur GitHub Pages.
